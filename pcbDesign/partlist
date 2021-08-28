@@ -1,0 +1,76 @@
+Partlist
+
+Exported from v1.brd at 2/25/2020 12:21 PM
+
+EAGLE Version 9.5.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package                   Library                     Position (mm)         Orientation
+
+C1       100uF          CPOL-RADIAL-2.5MM-6.5MM   SparkFun-Capacitors         (70.216 3.621)        R90
+C2       100n           C025-025X050              adafruit                    (62.98 3.252)         R270
+C3       100uF          CPOL-RADIAL-2.5MM-6.5MM   SparkFun-Capacitors         (39.158 44.982)       R0
+C4       100n           C025-025X050              adafruit                    (37.386 22.906)       R90
+C5       100n           C025-025X050              adafruit                    (63.142 58.856)       R180
+C6       22pF           CAP-PTH-2.54              SparkFun-Capacitors         (64.694 44.886)       R0
+C7       22pF           CAP-PTH-2.54              SparkFun-Capacitors         (69.774 44.686)       R180
+C8       100n           C025-025X050              adafruit                    (56.554 58.856)       R180
+C9       0.1u           C025-025X050              adafruit                    (76.511 42.558)       R270
+C10      100uF          CPOL-RADIAL-2.5MM-6.5MM   SparkFun-Capacitors         (44 23.2)             R270
+D1                      LED_3MM                   SparkFun-LED                (65.8 15)             R180
+D2       200mA/100V/1V  DIODE-1N4148              SparkFun-DiscreteSemi       (67.2 21.6)           R0
+J1                      1X10                      SparkFun-Connectors         (13.484 63.229)       R0
+J2       POWER_JACK     POWER_JACK_PTH            SparkFun-Connectors         (86.97 11.619)        R90
+J3                      MOLEX_47346-0001          Molex-47346-0001            (79.931 22.754)       R90
+J4                      1X06                      SparkFun-Connectors         (82.071 42.228)       R270
+J5                      1X03                      SparkFun-Connectors         (31.889 25.633)       R270
+J6                      1X02                      SparkFun-Connectors         (46.146 43.836)       R0
+J7                      1X02                      SparkFun-Connectors         (53.028 43.836)       R0
+J8                      1X04                      SparkFun-Connectors         (49.8 63.2)           R180
+LED1     YSD-439AB4B-35 7-SEGMENT-4DIGIT-YOUNGSUN SparkFun-LED                (25.514 33.914)       MR180
+LED2     YSD-439AB4B-35 7-SEGMENT-4DIGIT-YOUNGSUN SparkFun-LED                (25.514 12.324)       MR180
+LS1      BUZZER-PTH     BUZZER-12MM               SparkFun-Electromechanical  (66.6 30.2)           R0
+Q1                      TO92                      transistor-pnp              (3.136 35.615)        R90
+Q2                      TO92                      transistor-pnp              (25.998 23.915)       R270
+Q3                      TO92                      transistor-pnp              (3.136 27.815)        R90
+Q4                      TO92                      transistor-pnp              (20.183 23.915)       R270
+Q5                      TO92                      transistor-pnp              (3.136 20.215)        R90
+Q6                      TO92                      transistor-pnp              (14.403 23.715)       R270
+Q7                      TO92                      transistor-pnp              (3.136 13.615)        R90
+Q8                      TO92                      transistor-pnp              (8.588 23.915)        R270
+R1       330            0204/5                    rcl                         (4.091 45.72625)      R270
+R2       330            0204/5                    rcl                         (6.876 45.72625)      R270
+R3       330            0204/5                    rcl                         (9.461 45.72625)      R270
+R4       330            0204/5                    rcl                         (11.846 45.72625)     R270
+R5       330            0204/5                    rcl                         (14.528 45.72625)     R270
+R6       330            0204/5                    rcl                         (16.943 45.72625)     R270
+R7       330            0204/5                    rcl                         (19.323 45.72625)     R270
+R8       330            0204/5                    rcl                         (22.138 45.72625)     R270
+R9       10k            0204/5                    rcl                         (76.417 35.458)       R90
+R10      1k             0204/5                    rcl                         (66.2 10.2)           R180
+R12      220            0204/5                    rcl                         (24.192 3.146)        R180
+R13      220            0204/5                    rcl                         (16.192 3.146)        R180
+R14      220            0204/5                    rcl                         (48.792 3.136)        R180
+R15      220            0204/5                    rcl                         (31.1295 56.996)      R180
+R16      220            0204/5                    rcl                         (30.99475 53.856)     R180
+R17      220            0204/5                    rcl                         (39.46 3.146)         R180
+R18      220            0204/5                    rcl                         (30.99475 43.244)     R180
+R19      220            0204/5                    rcl                         (30.99475 46.678)     R180
+R20      220            0204/5                    rcl                         (30.99475 50.303)     R180
+R21      220            0204/5                    rcl                         (31.86 3.146)         R180
+R22      4.7k           0204/5                    rcl                         (37.453 54.289)       R270
+R23      4.7k           0204/5                    rcl                         (41.126 54.483)       R270
+R24      10k            0204/5                    rcl                         (58.872 36.125)       R270
+R25      10k            0204/5                    rcl                         (59.072 27.125)       R270
+R26      10k            0204/5                    rcl                         (59.072 18.325)       R270
+R27      10k            0204/5                    rcl                         (59.072 9.325)        R270
+R28      33             0204/5                    rcl                         (82.6 54.6)           R90
+RST                     B3F-10XX                  switch-omron                (71.676 61.242)       R180
+S1                      TACTILE_SWITCH_PTH_6.0MM  SparkFun-Switches           (51.9 37.6)           MR0
+S2                      TACTILE_SWITCH_PTH_6.0MM  SparkFun-Switches           (51.9 28.1)           MR0
+S3                      TACTILE_SWITCH_PTH_6.0MM  SparkFun-Switches           (51.9 18.6)           MR0
+S4                      TACTILE_SWITCH_PTH_6.0MM  SparkFun-Switches           (51.9 9.1)            MR0
+U1       SN74HC595N     DIP16                     SparkFun-IC-Logic           (15.683 54.747)       R0
+U2       328P           DIP28                     SparkFun-IC-Microcontroller (62.154 51.436)       R0
+Y1       16MHz          HC49US                    SparkFun-Clocks             (67.764 40.206)       R0
